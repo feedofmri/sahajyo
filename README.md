@@ -27,7 +27,7 @@ We would like to thank the following contributors for their hard work and dedica
 To get started with Sahajyo, clone the repository and install the necessary dependencies:
 
 ```bash
-git clone https://github.com/YOUR-USERNAME/sahajyo.git
+git clone https://github.com/feedofmri/sahajyo.git
 cd Sahajyo
 flutter pub get
 ```
