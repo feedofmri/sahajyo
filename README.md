@@ -1,4 +1,5 @@
 # Sahajyo
+![Sayajyo_Cover](Sahajyo Github Cover.jpg)
 
 **Sahajyo** is a rescue and relief donation app designed to assist individuals during natural disasters. The app connects help seekers with those willing to offer assistance, enabling real-time support and ensuring transparency in relief efforts.
 
