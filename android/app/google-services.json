@@ -1,13 +1,13 @@
 {
   "project_info": {
-    "project_number": "439506897955",
-    "project_id": "sahajyo-ef02d",
-    "storage_bucket": "sahajyo-ef02d.appspot.com"
+    "project_number": "278618244409",
+    "project_id": "sahajyo-syntax",
+    "storage_bucket": "sahajyo-syntax.appspot.com"
   },
   "client": [
     {
       "client_info": {
-        "mobilesdk_app_id": "1:439506897955:android:13534199732b43aa407596",
+        "mobilesdk_app_id": "1:278618244409:android:7980667934c479c17314e8",
         "android_client_info": {
           "package_name": "com.example.sahajyo"
         }
@@ -15,7 +15,7 @@
       "oauth_client": [],
       "api_key": [
         {
-          "current_key": "AIzaSyCFehG53W_nf6AbqfMq6yjhtZUi5T_q6gw"
+          "current_key": "AIzaSyDNiGvaEbY00GO9GW5zfe1DqxwqdSO_M6w"
         }
       ],
       "services": {
